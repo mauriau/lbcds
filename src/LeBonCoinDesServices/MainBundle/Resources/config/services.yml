@@ -1,0 +1,7 @@
+parameters:
+#    le_bon_coin_des_services_main.example.class: LeBonCoinDesServices\MainBundle\Example
+
+services:
+#    le_bon_coin_des_services_main.example:
+#        class: %le_bon_coin_des_services_main.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
